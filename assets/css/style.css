@@ -224,8 +224,8 @@ section {
 .contact h2 {
     color: #fce138;
   }
-.contact-info div {
-    width: 410px;
+.contact-info div { 
+    width: 400px;
     display: inline-block;
     vertical-align: top;
     text-align: left;
